@@ -11,7 +11,7 @@ describe("FizzBuzz", function() {
       expect(fizzBuzz.play(3)).toEqual('Fizz');
     });
     it('returns fizz for 6', function() {
-      expect(fizzBuzz.play(6).toEqual('Fizz');
+      expect(fizzBuzz.play(6)).toEqual('Fizz');
     });
   });
 
